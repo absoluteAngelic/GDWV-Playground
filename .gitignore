@@ -72,3 +72,15 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+
+
+
+
+
+# Added manually so that these folders are ignored at any directory depth (in all subfolders not just root)
+**/Binaries/
+**/Build/
+**/Intermediate/
+**/Saved/
+**/DerivedDataCache/
